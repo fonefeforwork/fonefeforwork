@@ -1,76 +1,122 @@
-# 👋 Hi, I'm Fone
+# 👋 Hi, I'm Fonefe
 
-💻 Backend Developer (PHP / Laravel)  
-📊 Experience in POS, Billing, Accounting, and Enterprise Systems  
-🇹🇭 Based in Thailand
+### Software Engineer | Backend Developer | Security-Focused Engineer
+
+Building secure and scalable web applications with Laravel, modern development workflows, and security best practices.
+
+🇹🇭 Thailand  
+💻 Open to Remote Opportunities  
+🚀 Currently Learning Docker, AWS & AI Engineering
 
 ---
 
 ## 🧩 About Me
-- Backend developer specializing in Laravel & MySQL
-- Experience in finance-related and data-driven systems
-- Familiar with real-world business workflows
-- Continuously improving code quality and Git workflow
+
+- 4 years of experience in software development
+- Specialized in PHP, Laravel, and MySQL
+- Experienced in business-critical web applications
+- Interested in Backend Engineering and Web Security
+- Currently exploring Docker, AWS, and AI Engineering
 
 ---
 
-## 💼 Professional Experience (Selected Systems)
+## ⚙️ Tech Stack
 
-- 🏨 **Online Booking & Reservation System**
-  - Developed accommodation booking workflows
-  - Managed pricing, availability, and reservation logic
+### Backend
 
-- ⏱ **Time Attendance & Payroll Management System**
-  - Processed check-in/check-out data
-  - Calculated payroll, OT, and leave records
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🛡 **High-Security Enterprise Web Application**
-  - Implemented authentication and authorization mechanisms
-  - Developed under strict security and access control policies
+### Security
 
-- 📊 **Accounting & Financial Management System**
-  - Implemented income/expense accounting workflows
-  - Generated financial and accounting reports
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
 
-- 🧾 **POS & Inventory Management System**
-  - Developed sales transaction workflows
-  - Managed stock and daily sales reporting
+### DevOps
 
-- 🎓 **E-learning & Course Review Platform**
-  - Built content management and course enrollment features
-  - Implemented role-based access control
-  - Designed admin dashboard for content and user management
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🛒 **E-commerce Platform**
-  - Developed product, order, and payment workflows
+### AI
+
+![OpenAI](https://img.shields.io/badge/AI-412991?style=for-the-badge)
 
 ---
 
-## 🛠 Tech Stack
-- PHP (Laravel)
-- MySQL
-- JavaScript / jQuery
-- Bootstrap
-- Git & GitHub
+## 🚀 Featured Projects
 
----
-
-## 📌 Highlight Project
 ### 🍓 Fruit Management System
-Fruit trading and billing management system
 
-🔗 Repository:  
-https://github.com/fonefeforwork/billing-system
+Business management platform for fruit trading operations.
 
-**Key Features**
-- CRUD for trading records
-- Billing and receipt generation
-- Daily transaction reports
-- PDF and Excel export
+🔗 https://github.com/fonefeforwork/billing-system
+
+Features:
+
+- Billing System
+- PDF Export
+- Excel Export
+- Reporting Dashboard
+- Trading Management
 
 ---
 
-## 📈 GitHub Goals
-- Maintain consistent and meaningful commits
-- Improve system design and code structure
-- Learn advanced Git workflows
+## 🔐 Security Focus
+
+- Authentication & Authorization
+- Role-Based Access Control
+- CSRF Protection
+- XSS Prevention
+- Input Validation
+- Secure File Upload
+- Burp Suite Testing
+
+---
+
+## 📚 Learning Roadmap
+
+### Completed
+
+✅ Laravel  
+✅ MySQL  
+✅ Git & GitHub  
+✅ Business Systems Development
+
+### Learning
+
+🚀 Docker  
+🚀 AWS  
+🚀 AI Engineering
+
+### Future
+
+🎯 AWS Solutions Architect Associate  
+🎯 CompTIA Security+  
+🎯 Advanced Web Security
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonefeforwork&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fonefeforwork&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+GitHub:
+https://github.com/fonefeforwork
+
+Portfolio:
+Coming Soon
+
+Location:
+Thailand
+
+---
+
+> Building secure systems, solving real business problems, and continuously improving as an engineer.
