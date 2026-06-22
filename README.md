@@ -115,11 +115,30 @@ Features:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonefeforwork&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=fonefeforwork&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonefeforwork&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fonefeforwork&layout=compact&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=fonefeforwork&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fonefeforwork&theme=tokyonight" 
+  />
+</p>
 
 ---
 
