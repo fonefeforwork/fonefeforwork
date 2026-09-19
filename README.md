@@ -1,158 +1,191 @@
-# 👋 Hi, I'm Fonefe
 
-### Software Engineer | Backend Developer | Security-Focused Engineer
+<p align="center">
+  <img
+    src="./assets/friday-profile-header.gif"
+    width="100%"
+    alt="FRIDAY AI animated profile header"
+  />
+</p>
 
-Building secure and scalable web applications with Laravel, modern development workflows, and security best practices.
+<h1 align="center">Hi, I'm Fonefe 👋</h1>
 
-🇹🇭 Thailand  
-💻 Open to Remote Opportunities  
-🚀 Currently Learning Docker, AWS & AI Engineering
+<p align="center">
+  <strong>Software Engineer · Backend Engineering · Application Security · AI Automation</strong>
+</p>
+
+<p align="center">
+  🇹🇭 Thailand &nbsp;·&nbsp; 💻 Open to Remote Opportunities
+</p>
+
+<p align="center">
+  <a href="https://github.com/fonefeforwork">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://cyber-security-portfolio-v2-web.onrender.com/">Portfolio</a>
+</p>
 
 ---
 
-## 🧩 About Me
+## `> whoami`
 
-- 4 years of experience in software development
-- Specialized in PHP, Laravel, and MySQL
-- Experienced in business-critical web applications
-- Interested in Backend Engineering and Web Security
-- Currently exploring Docker, AWS, and AI Engineering
+I'm a Software Engineer with **4 years of software development experience**, building business applications with **PHP, Laravel, and MySQL**.
+
+My work spans understanding business requirements, designing application workflows, implementing backend logic, testing, and supporting deployment.
+
+I'm expanding my work toward **Backend Engineering, Application Security, and local AI Automation**.
+
+```text
+NAME       Fonefe
+LOCATION   Thailand
+CORE       PHP · Laravel · MySQL · REST APIs
+WORKFLOW   Requirements → Design → Build → Test → Deploy
+FOCUS      Backend · Secure Coding · AI Automation
+```
 
 ---
 
-## ⚙️ Tech Stack
+## `> engineering_stack`
 
-### Backend
+**Backend**
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" alt="Go" />
 </p>
 
-### Frontend
+**Frontend**
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="42" alt="Vite" />
 </p>
 
-### Security
+**Development & Infrastructure**
+
 <p>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Security-111827?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" alt="Postman" />
 </p>
 
-### DevOps & Tools
+**Security & Local AI**
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
+  <img src="https://img.shields.io/badge/OWASP-111827?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Secure%20Coding-0F766E?style=for-the-badge" alt="Secure Coding" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge" alt="Ollama" />
 </p>
 
-### AI & Productivity
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://img.shields.io/badge/AI%20Agent-6D28D9?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
-</p>
 ---
 
-## 🚀 Featured Projects
+## `> selected_projects`
 
 ### 🍓 Fruit Management System
 
-Business management platform for fruit trading operations.
+A business management platform supporting fruit trading operations.
 
-🔗 https://github.com/fonefeforwork/billing-system
+**Features:** Billing, PDF export, Excel export, reporting dashboard, and trading management.
 
-Features:
+[View repository →](https://github.com/fonefeforwork/billing-system)
 
-- Billing System
-- PDF Export
-- Excel Export
-- Reporting Dashboard
-- Trading Management
+### 🌐 Cyber Security Portfolio v2
 
----
+A portfolio project combining a **Go backend API** with a **Next.js frontend** to present software engineering and security-focused work.
 
-## 🔐 Security Focus
+[Live portfolio →](https://cyber-security-portfolio-v2-web.onrender.com/)
 
-- Authentication & Authorization
-- Role-Based Access Control
-- CSRF Protection
-- XSS Prevention
-- Input Validation
-- Secure File Upload
-- Burp Suite Testing
+### 🔐 Cyber Security Lab
 
----
+An isolated learning environment for practicing web application security on systems I own or am authorized to test.
 
-## 📚 Learning Roadmap
+**Focus:** OWASP concepts, input validation, authentication, authorization, XSS, CSRF, and secure fixes.
 
-### Completed
+### 🤖 FRIDAY AI
 
-✅ Laravel  
-✅ MySQL  
-✅ Git & GitHub  
-✅ Business Systems Development
+A local AI engineering assistant project built around **Python and Ollama**, with experiments involving development workflows, Git, Docker, logs, and voice capabilities.
 
-### Learning
-
-🚀 Docker  
-🚀 AWS  
-🚀 AI Engineering
-
-### Future
-
-🎯 AWS Solutions Architect Associate  
-🎯 CompTIA Security+  
-🎯 Advanced Web Security
+**Mission:** Build useful automation while keeping the assistant local.
 
 ---
 
-## 📊 GitHub Analytics
+## `> security_focus`
+
+```text
+[✓] Authentication & Authorization
+[✓] Role-Based Access Control
+[✓] Input Validation
+[✓] CSRF & XSS Prevention
+[✓] Secure File Handling
+[✓] Burp Suite Practice
+[>] Secure-by-Design Learning
+```
+
+I practice security testing in **local labs and authorized environments**.
+
+---
+
+## `> current_mission`
+
+| Working with | Developing further |
+|---|---|
+| PHP, Laravel, MySQL | Go Backend Engineering |
+| Business Applications & REST APIs | Application Security |
+| Docker, Git & Linux/WSL2 | AWS Cloud Architecture |
+| Python & Ollama Experiments | Local AI Automation |
+
+**Future certification goals:** AWS Solutions Architect – Associate and CompTIA Security+.
+
+---
+
+## `> github_activity`
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=fonefeforwork&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fonefeforwork&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
+    alt="GitHub stats"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonefeforwork&layout=compact&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonefeforwork&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
+    alt="Top languages"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=fonefeforwork&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=fonefeforwork&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fonefeforwork&theme=tokyonight" 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fonefeforwork&theme=tokyonight"
+    alt="GitHub profile summary"
   />
 </p>
 
 ---
 
-## 📫 Contact
+## `> connect`
 
-GitHub:
-https://github.com/fonefeforwork
+**GitHub:** https://github.com/fonefeforwork
 
-Portfolio:
-Coming Soon
+**Portfolio:** https://cyber-security-portfolio-v2-web.onrender.com/
 
-Location:
-Thailand
+**Location:** Thailand
 
 ---
 
-> Building secure systems, solving real business problems, and continuously improving as an engineer.
+<p align="center">
+  <em>Turning ideas into reliable and secure systems.</em><br/>
+  <strong>With a little help from FRIDAY.</strong>
+</p>
