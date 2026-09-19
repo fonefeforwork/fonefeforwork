@@ -25,6 +25,23 @@
 
 ---
 
+<h2 align="left">/ Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/fonefeforwork">
+    <img
+      src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://cyber-security-portfolio-v2-web.onrender.com/">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-065F46?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+</p>
+
 ## `> whoami`
 
 I'm a Software Engineer with **4 years of software development experience**, building business applications with **PHP, Laravel, and MySQL**.
@@ -33,17 +50,35 @@ My work spans understanding business requirements, designing application workflo
 
 I'm expanding my work toward **Backend Engineering, Application Security, and local AI Automation**.
 
-```text
-NAME       Fonefe
-LOCATION   Thailand
-CORE       PHP · Laravel · MySQL · REST APIs
-WORKFLOW   Requirements → Design → Build → Test → Deploy
-FOCUS      Backend · Secure Coding · AI Automation
-```
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <strong>SYSTEM.INFO</strong>
+      <br><br>
+      <strong>NAME</strong> — Fonefe<br>
+      <strong>LOCATION</strong> — Thailand<br>
+      <strong>ROLE</strong> — Software Engineer<br>
+      <strong>CORE</strong> — PHP · Laravel · MySQL · REST APIs<br>
+      <strong>FOCUS</strong> — Backend · Security · AI Automation
+      <br><br>
+      <strong>WORKFLOW</strong><br>
+      <code>Requirements → Design → Build → Test → Deploy</code>
+    </td>
+    <td width="42%" valign="top">
+      <strong>CURRENT.MISSION</strong>
+      <br><br>
+      🟢 Building business applications<br>
+      🟢 Practicing secure coding<br>
+      🟢 Developing Go backend skills<br>
+      🟢 Exploring local AI with Ollama<br>
+      🟢 Learning AWS architecture
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `> engineering_stack`
+## `/ Tech Stack`
 
 **Backend**
 
@@ -85,33 +120,40 @@ FOCUS      Backend · Secure Coding · AI Automation
 
 ---
 
-## `> selected_projects`
+<h2>/ Selected Projects</h2>
 
-### 🍓 Fruit Management System
-
-A business management platform supporting fruit trading operations.
-
-**Features:** Billing, PDF export, Excel export, reporting dashboard, and trading management.
-
-[View repository →](https://github.com/fonefeforwork/billing-system)
-
-### 🌐 Cyber Security Portfolio v2
-
-A portfolio project combining a **Go backend API** with a **Next.js frontend** to present software engineering and security-focused work.
-
-[Live portfolio →](https://cyber-security-portfolio-v2-web.onrender.com/)
-
-### 🔐 Cyber Security Lab
-
-An isolated learning environment for practicing web application security on systems I own or am authorized to test.
-
-**Focus:** OWASP concepts, input validation, authentication, authorization, XSS, CSRF, and secure fixes.
-
-### 🤖 FRIDAY AI
-
-A local AI engineering assistant project built around **Python and Ollama**, with experiments involving development workflows, Git, Docker, logs, and voice capabilities.
-
-**Mission:** Build useful automation while keeping the assistant local.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍓 Fruit Management System</h3>
+      <p>Business management platform for fruit trading operations.</p>
+      <p><strong>Features:</strong> Billing, PDF & Excel export, reporting, and trading management.</p>
+      <p><code>PHP</code> <code>Laravel</code> <code>MySQL</code></p>
+      <a href="https://github.com/fonefeforwork/billing-system">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Cyber Security Portfolio v2</h3>
+      <p>Portfolio combining a Go backend API with a Next.js frontend.</p>
+      <p><strong>Focus:</strong> Backend engineering and security-focused projects.</p>
+      <p><code>Go</code> <code>Next.js</code> <code>TypeScript</code></p>
+      <a href="https://cyber-security-portfolio-v2-web.onrender.com/">Live portfolio →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Cyber Security Lab</h3>
+      <p>Isolated environment for practicing web application security.</p>
+      <p><strong>Focus:</strong> OWASP, authentication, authorization, XSS, CSRF, and secure fixes.</p>
+      <p><code>Laravel</code> <code>Docker</code> <code>Burp Suite</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 FRIDAY AI</h3>
+      <p>Local AI engineering assistant built around Python and Ollama.</p>
+      <p><strong>Focus:</strong> Git, Docker, logs, and voice experiments.</p>
+      <p><code>Python</code> <code>Ollama</code> <code>Local AI</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -131,20 +173,21 @@ I practice security testing in **local labs and authorized environments**.
 
 ---
 
-## `> current_mission`
+## `/ Currently Learning`
 
-| Working with | Developing further |
-|---|---|
-| PHP, Laravel, MySQL | Go Backend Engineering |
-| Business Applications & REST APIs | Application Security |
-| Docker, Git & Linux/WSL2 | AWS Cloud Architecture |
-| Python & Ollama Experiments | Local AI Automation |
+- [x] Docker, Linux & Git workflows
+- [x] Laravel business applications and REST APIs
+- [ ] Go backend development
+- [ ] Advanced application security
+- [ ] AWS cloud architecture
+- [ ] Local AI automation with Python & Ollama
+- [ ] System design and technical communication
 
-**Future certification goals:** AWS Solutions Architect – Associate and CompTIA Security+.
+**Certification goals:** AWS Solutions Architect – Associate · CompTIA Security+
 
 ---
 
-## `> github_activity`
+## `/ GitHub Stats`
 
 <p align="center">
   <img
@@ -175,13 +218,28 @@ I practice security testing in **local labs and authorized environments**.
 
 ---
 
-## `> connect`
+## `/ Achievements`
 
-**GitHub:** https://github.com/fonefeforwork
+<p align="center">
+  <a href="https://github.com/fonefeforwork?tab=achievements">
+    <img
+      src="https://img.shields.io/badge/View%20My%20GitHub%20Achievements-0F766E?style=for-the-badge&logo=github&logoColor=white"
+      alt="View my GitHub Achievements"
+    />
+  </a>
+</p>
 
-**Portfolio:** https://cyber-security-portfolio-v2-web.onrender.com/
+---
 
-**Location:** Thailand
+<p align="center">
+  <strong>FRIDAY AI // Fonefe</strong>
+  <br>
+  <sub>Build Secure. Improve. Repeat.</sub>
+  <br><br>
+  <a href="https://github.com/fonefeforwork">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://cyber-security-portfolio-v2-web.onrender.com/">Portfolio</a>
+</p>
 
 ---
 
